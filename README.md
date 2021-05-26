@@ -1,0 +1,2 @@
+# SemanaWebJS-Kenzie
+A Kenzie Academy Brasil realiza entre os dias 24 e 28 de maio a Semana da Programação Web: Edição JavaScript. O evento ocorre forma totalmente on-line e gratuita, apresentando o curso introdutório com foco no JavaScript. Destinado a profissionais da área de Tecnologia e pessoas sem conhecimento prévio na área, serão disponibilizadas 30 mil vagas para a formação. Durante o curso serão apresentados os primeiros estágios da programação web, como conceitos básicos de HTML e CSS.
